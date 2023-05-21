@@ -1,0 +1,26 @@
+
+
+#SSH Keys
+*.pem
+*.ppk
+
+#Package Files
+*.jar
+#*.war
+*.ear
+
+#Temporary files
+#target/
+
+#Eclipse
+**/.project
+**/.classpath
+**/.settings/
+/bin/
+blog/bin/
+**/.tern-project
+
+#others
+*.zip
+*.class
+
